@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 alteração em branch2test
+=======
+
+
+
+
+
+
+
+
+
+visível somente na branch master.
+>>>>>>> main
